@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7346df849f785444a7182199bdf18c0, type: 3}
   m_Name: Boot
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
-  description: This is an Item
+  icon: {fileID: 21300000, guid: a1a7528440ff345479e8f5849525bf25, type: 3}
+  description: Low End Footwear

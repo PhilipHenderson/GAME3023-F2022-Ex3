@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7346df849f785444a7182199bdf18c0, type: 3}
   m_Name: Potion
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
-  description: This is an Item
+  icon: {fileID: 21300000, guid: 1a24fd07719c04a4f9c99ba2a32d692d, type: 3}
+  description: Its just water, or is it?
