@@ -51,7 +51,7 @@ public class Traveller : MonoBehaviour
         if (PortalSpawn.Player != GetComponent<PlayerCharacterMovement>())
         {
             //if we are not the original, we must die!
-            Destroy(this);
+            Destroy(gameObject);
         }
     }
 }
